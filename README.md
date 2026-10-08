@@ -14,7 +14,7 @@ In my last role I worked on a desktop application (a SketchUp extension in Ruby)
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**mini-apm-laravel**](https://github.com/gabpese/mini-apm-laravel) | A small APM: apps send usage, error and crash events to a REST API, and a dashboard flags crash regressions by version | Laravel 13 · React 19 · TypeScript · Pest |
+| [**mini-apm-laravel**](https://github.com/gabpese/mini-apm-laravel) · [live demo](https://mini-apm.onrender.com) | A small APM: apps send usage, error and crash events to a REST API, and a dashboard flags crash regressions by version | Laravel 13 · React 19 · TypeScript · Pest |
 | [**mini-apm-rails**](https://github.com/gabpese/mini-apm-rails) | The same product and the same API contract, rebuilt in Ruby on Rails | Rails 8.1 · React 19 · TypeScript · PostgreSQL |
 
 Same product, two stacks: both APIs accept the same JSON contract, so the JavaScript and Ruby clients work with either one.
