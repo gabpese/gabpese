@@ -34,6 +34,10 @@ Same product, two stacks: both APIs accept the same JSON contract, so the JavaSc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+## Currently learning
+
+Python and Machine Learning, one lesson at a time and written by hand: [machine-learning-studies](https://github.com/gabpese/machine-learning-studies).
+
 ## Open to work
 
 Full stack and back-end roles: remote, or hybrid in Porto Alegre. Native Portuguese, fluent English.
